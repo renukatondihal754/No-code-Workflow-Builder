@@ -6,7 +6,7 @@ export default function ChatPage() {
   return (
     <div className="flex h-screen bg-white">
       {/* Sidebar */}
-      <div className="w-1/6 bg-gray-100 border-r p-4">
+      <div className="w-1/6 bg-gray-100 border-r p-6">
         <Sidebar />
       </div>
 
