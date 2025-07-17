@@ -1,1 +1,2 @@
 # No-code-Workflow-Builder
+A full-stack visual tool that lets users create intelligent workflows by dragging components like Query, KnowledgeBase, LLM, and Output onto a canvas. The app integrates LLMs (GPT/Gemini), vector DB (ChromaDB), and FastAPI backend with a clean React + Tailwind UI.
